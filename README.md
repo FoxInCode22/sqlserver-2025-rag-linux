@@ -44,7 +44,8 @@ The RAG stored procedure combines the retrieved context with a GPT-5 prompt, pro
 
 This end-to-end setup demonstrates how SQL Server 2025 and Azure OpenAI can be used together to build intelligent, data-driven Q&A systems directly on top of operational data.
 
-<img width="709" height="360" alt="image" src="https://github.com/user-attachments/assets/2da48008-9f44-40b2-a6d5-3f7126e430e9" />
+<img width="705" height="400" alt="image" src="https://github.com/user-attachments/assets/2b0ed3da-5dd8-43a1-be95-b563f518d6c9" />
+
 
 ## 2. Using Ollama models locally
 (Content and demo to be added soon..)
