@@ -33,6 +33,8 @@ This repository contains complete SQL scripts to ingest unstructured text, gener
 
 
 ```
+Dataset : https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated/data
+
 ## RAG Demo Using Netflix Reviews (Kaggle Dataset)
 
 ## 1. Using Open AI models
