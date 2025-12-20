@@ -5,6 +5,9 @@ SQL Server 2025 introduces native vector search, allowing RAG workloads to run e
 This marks one of the largest architectural evolutions in the history of the SQL Server engine by introducing native vector data types, vector search, and DiskANN‑powered vector indexing directly inside the database engine. This transformation enables developers to run complete Retrieval‑Augmented Generation (RAG) workloads entirely inside SQL Server, without needing external vector databases, search engines, or complex distributed architectures.
 With these capabilities, SQL Server becomes an AI‑ready, ground‑to‑cloud database that can store embeddings, perform semantic search, orchestrate retrieval, and integrate with AI models from Azure OpenAI, OpenAI, or locally hosted models such as Ollama.
 
+<img width="1624" height="828" alt="image" src="https://github.com/user-attachments/assets/0d0cf62d-7f8a-45d6-ad2a-4f90930561a5" />
+
+
 SQL Server 2025 collapses all the various components of traditionally build a RAG system into one engine, eliminating cross‑system latency, complexity, and security concerns. With native vector operations, SQL Server allows:
 
 - Storing high‑dimensional embeddings using the built‑in VECTOR(n) type
@@ -47,6 +50,3 @@ This end-to-end setup demonstrates how SQL Server 2025 and Azure OpenAI can be u
 <img width="708" height="341" alt="image" src="https://github.com/user-attachments/assets/93275766-686e-4486-9e71-3669c1b3d671" />
 
 
-
-## 2. Using Ollama models locally
-(Content and demo to be added soon..)
