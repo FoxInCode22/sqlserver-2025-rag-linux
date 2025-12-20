@@ -20,7 +20,7 @@ This repository contains complete SQL scripts to ingest unstructured text, gener
 ```
 /
 ├── README.md
-└── sql/
+└── openAI/
     ├── 00_enable_features.sql
     ├── 01_create_staging_table.sql
     ├── 02_bulk_insert_csv.sql
