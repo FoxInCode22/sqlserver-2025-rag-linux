@@ -51,9 +51,6 @@ This end-to-end setup demonstrates how SQL Server 2025 and Azure OpenAI can be u
 
 <img width="708" height="341" alt="image" src="https://github.com/user-attachments/assets/93275766-686e-4486-9e71-3669c1b3d671" />
 
-## 2. Using Ollama models
 
-> 🚧 Work in progress  
-> Instructions for configuring and using Ollama models will be added in a future update.
 
 
